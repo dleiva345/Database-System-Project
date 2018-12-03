@@ -6,12 +6,13 @@ end of the semester project
 
 ## :computer: Getting Started
 To run this code, you will need a code editor that will be able to process JavaScript code. MySQL and Node JS installed on your computer
-In Terminal use command line to: 
+Once you are ready to run the code, in terminal use command line to:
+
     * Clone Repo
     * Npm install
-    * cd to Repo and type node Beds.js to view tables
+    * cd to Repo and type node Beds.js to view table
    
-## : space_invader: Technologie Used
+## :space_invader: Technologie Used
     * Visual Studio
     * MySQL Workbench
     * JavaScript
@@ -24,7 +25,7 @@ In Terminal use command line to:
   
 ## :tulip:
 
-* Debbie Leiva
+## Debbie Leiva
 
 
 
